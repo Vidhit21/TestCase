@@ -1,3 +1,4 @@
 # TestCase
 
-Demo perpose.
+Demo purpose.
+Author -Vidhit Patel
